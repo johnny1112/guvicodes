@@ -5,6 +5,8 @@ void main()
 char a[30];
 printf("string");
 gets(a);
-(printf("%s",&a))
+if(printf("%s",&a))
+{
+}
 getch();
 }
