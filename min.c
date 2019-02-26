@@ -4,7 +4,7 @@ void main()
 {
 int a[20];
 int i,count=0;
-printf("enter line");
+printf("enter numbers");
 scanf("%s",a[i]);
 for(i=0;a[i]!=0;i++)
 {
