@@ -1,12 +1,8 @@
 #include<stdio.h> 
-
 int main(){
-
-               int num,rem,odd=0,digit;
-
-               printf("value: ");
-
-               scanf("%d",&num);
+int num,rem,odd=0,digit;
+printf("value: ");
+  scanf("%d",&nval);
 
                printf("\n  The Odd digits present in %d are \n",num);
 
